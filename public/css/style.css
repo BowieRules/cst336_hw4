@@ -61,7 +61,6 @@ p, h2, h3 {
 .column {
     float: left;
     width: 250px;
-
 }
 
 .quadrant2 {
@@ -113,4 +112,9 @@ ol {
     font-size: x-small;
     color: #ccc;
     text-align: right;
+}
+.bottom {
+    text-align: center;
+    width: 100%;
+    display:inline-block;
 }
