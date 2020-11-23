@@ -176,13 +176,13 @@ ol {
 
 #breaking-news-colour {
   height: 30px;
-  width: 694px;
+  width: 800px;
   background-color: #3399FF;
 }
 
 #breaking-news-container {
   height: 30px;
-  width: 694px;
+  width: 800px;
   overflow: hidden;
   position: absolute;
   &:before {
